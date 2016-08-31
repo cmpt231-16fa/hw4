@@ -1,2 +1,1 @@
-# hw4
-HW4 CMPT231 16FA
+# HW4 [CMPT231 16FA](https://cmpt231-16fa.github.io/)
