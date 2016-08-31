@@ -8,13 +8,13 @@
 #baseurl: ""
 
 # If you are building a GitHub project page then use these settings:
-url: "https://cmpt231-16fa.github.io/hw1"
-baseurl: "/hw1"
+url: "https://cmpt231-16fa.github.io/hw4"
+baseurl: "/hw4"
 
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: "HW1 CMPT231 16FA"
+title: "HW4 CMPT231 16FA"
 
 # Short description of your site
 description: ""
@@ -51,7 +51,7 @@ footer-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "cmpt231.seanho.com/hw1"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "cmpt231.seanho.com/hw4"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Misc --- #
 
