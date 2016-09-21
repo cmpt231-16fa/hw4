@@ -1,7 +1,8 @@
 ---
 layout: page
 title: "HW4: CMPT231"
-subtitle: Lecture 4, ch8,11
+subtitle: "Lecture 4, ch8,11"
+ext-js: "https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=AM_CHTML"
 ---
 
 {% include policies.md %}
