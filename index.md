@@ -13,7 +13,6 @@ Let A = `[ 84, 22, 16, 35, 95, 57, 19, 30 ]`.
 
 1. (a) *(2pts)* Demonstrate **counting sort** on *A*,
   sorting on only the **first** digit of each number.
-
   + (b) *(1pt)* How does your result demonstrate that
   counting sort is a **stable** sort?
 
