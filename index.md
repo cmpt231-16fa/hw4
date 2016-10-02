@@ -22,4 +22,6 @@ Let A = `[ 84, 22, 16, 35, 95, 57, 19, 30 ]`.
 3. *(3pts)* Demonstrate **bucket sort** on *A*,
   with each number divided by 100 to get it into the range [0,1).
 
-4. *(4pts)*
+4. *(5pts)* (Hand-simulation of various hashing methods)
+
+5. *(5pts)* (Proof/pseudocode/discussion about hash tables)
