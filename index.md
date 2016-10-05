@@ -35,6 +35,6 @@ Let A = `[ 84, 22, 16, 35, 95, 57, 19, 30 ]`.
 5. *(3pts)* Consider a small hash table of size m = 4,
   and a key space of U = \`bbb Z\_m\` = {0, 1, 2, 3}.
   Let H = \`{h\_i}\_(i=1)^4\` be a **pool** of hash functions,
-  each defined as \`h\_i(k) = (i\*k mod 5) mod 4\`.
+  each defined as \`h\_i(k) = ((i\*k) mod 5) mod 4\`.
   Does the pool H satisfy the **universal hash** property?
 
