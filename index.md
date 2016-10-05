@@ -16,12 +16,20 @@ Let A = `[ 84, 22, 16, 35, 95, 57, 19, 30 ]`.
   + (b) *(1pt)* How does your result demonstrate that
   counting sort is a **stable** sort?
 
-2. *(4pts)* Demonstrate **radix sort** on *A*,
+2. *(3pts)* Demonstrate **radix sort** on *A*,
   using *r=3*-bit digits (i.e., base 8)
 
 3. *(3pts)* Demonstrate **bucket sort** on *A*,
   with each number divided by 100 to get it into the range [0,1).
 
-4. *(5pts)* (Hand-simulation of various hashing methods)
+4. Let K = `[ 5, 12, 3, 15, 7, 1, 4 ]` be a sequence of keys.
+  Demonstrate inserting these keys in order into a hash table
+  of size 7, if the hash table uses:
+  + (a) *(2pts)* Chaining, with multiplication hash and A=0.3
+  + (b) *(3pts)* Open addressing, with division hash and quadratic probing,
+    \` c\_1=0.5, c\_2=3.5 \`.
+    (Round down after taking mod 7 to get a bucket number.)
+  + (c) *(3pts)* Open addressing, with double-hash: \`h\_1\` is division hash,
+    \`h\_2\` is multiplication hash with A=0.3
 
-5. *(5pts)* (Proof/pseudocode/discussion about hash tables)
+5. *(3pts)*
