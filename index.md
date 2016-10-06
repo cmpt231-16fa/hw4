@@ -22,16 +22,16 @@ Let A = `[ 84, 22, 16, 35, 95, 57, 19, 30 ]`.
 3. *(3pts)* Demonstrate **bucket sort** on *A*,
   with each number divided by 100 to get it into the range [0,1).
 
-4. Let K = `[ 5, 12, 3, 15, 7, 1, 4 ]` be a sequence of keys.
+4. Let K = `[ 5, 12, 3, 15, 7, 1, 4 ]` be a sequence of keys. <br/>
   Demonstrate (show as much work as you can) inserting these keys
   in order into a **hash table** of size 7, if the hash table uses:
   + (a) *(3pts)* Chaining, with multiplication hash and A=0.3
   + (b) *(4pts)* Open addressing, with double-hash: \`h\_1\` is division hash,
-    \`h\_2\` is multiplication hash with A=0.3
+    and \`h\_2\` is multiplication hash with A=0.3
 
 5. *(4pts)* Consider a small hash table of size m = 4,
-  and a key space of U = \`bbb Z\_m\` = {0, 1, 2, 3}.
+  and a small key space of U = \`bbb Z\_m\` = {0, 1, 2, 3}. <br/>
   Let H = \`{h\_i}\_(i=1)^4\` be a **pool** of hash functions,
-  each defined as \`h\_i(k) = ((i\*k) mod 5) mod 4\`.
+  each defined as \`h\_i(k) = ((i\*k) mod 5) mod 4\`. <br/>
   Does the pool H satisfy the **universal hash** property?
 
