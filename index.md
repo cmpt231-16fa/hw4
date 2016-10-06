@@ -30,8 +30,8 @@ Let A = `[ 84, 22, 16, 35, 95, 57, 19, 30 ]`.
     and \`h\_2\` is multiplication hash with A=0.3
 
 5. *(4pts)* Consider a small hash table of size m = 4,
-  and a small key space of U = \`bbb Z\_m\` = {0, 1, 2, 3}. <br/>
-  Let H = \`{h\_i}\_(i=1)^4\` be a **pool** of hash functions,
-  each defined as \`h\_i(k) = ((i\*k) mod 5) mod 4\`. <br/>
+  and key space U = \`bbb Z\_m\` = {0, 1, 2, 3}. <br/>
+  Let H = \`{h\_i}\_(i=1)^4\` be a **pool** of hash functions:
+  \`h\_i(k) = ((i\*k) mod 5) mod 4\`. <br/>
   Does the pool H satisfy the **universal hash** property?
 
