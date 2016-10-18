@@ -7,7 +7,7 @@ ext-js: "https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=AM_CHTML"
 
 {% include policies.md %}
 
-### HW4 (20pts)
+### HW4 (20pts) [(solutions)](solns)
 
 Let A = `[ 84, 22, 16, 35, 95, 57, 19, 30 ]`.
 
