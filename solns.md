@@ -47,6 +47,8 @@ ext-js: "https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=AM_CHTML"
   | fr\*m | 3.5 | 4.2 | 6.3 | 3.5 | 0.7 | 2.1 | 1.4 |
   | floor |  3  |  4  |  6  |  3  |  0  |  2  |  1  |
 
+  Result:
+
   | buckt |  0 |  1 |  2 |  3 |  4 |  5 |  6 |
   |-------|----|----|----|----|----|----|----|
   |  item |  7 |  4 |  1 |  5 | 12 | -- |  3 |
@@ -60,6 +62,8 @@ ext-js: "https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=AM_CHTML"
   | h2(k) |  3 |  4 |  6 |  3 |  0 |  2 |  1 |
   | colli |  0 |  1 |  0 |  0 |  0 |  5 |  2 |
   | buckt |  5 |  2 |  3 |  1 |  0 |  4 |  6 |
+
+  Result:
 
   | buckt |  0 |  1 |  2 |  3 |  4 |  5 |  6 |
   |-------|----|----|----|----|----|----|----|
